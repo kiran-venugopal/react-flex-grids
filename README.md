@@ -10,6 +10,10 @@
 npm install react-flex-grid
 ```
 
+## Example
+
+[![View on Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/s/react-flex-grids-60elb?file=/src/App.js)
+
 ## Usage
 
 ```tsx
